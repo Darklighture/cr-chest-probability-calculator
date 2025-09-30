@@ -1,5 +1,6 @@
 # cr-lucky-chest-probability-calculator
 Calculating the probability of lucky chests of different rarities
+
 使用说明:
 1. 设置宝箱等级数量和初始等级，点击"应用设置"
 2. 设置各级升级概率(百分比)和升级次数
