@@ -1,4 +1,4 @@
-# cr-lucky-chest-probability-calculator
+# cr-chest-probability-calculator
 Calculating the probability of lucky chests of different rarities
 
 使用说明:
@@ -13,3 +13,16 @@ Calculating the probability of lucky chests of different rarities
 - 最高等级没有升级概率（无法继续升级）
 - 概率值范围为0-100
 - 初始等级必须小于等于总等级数
+
+Instructions:
+1. Set the number of treasure chest levels and the initial level, then click "Apply Settings."
+2. Set the upgrade probability (percentage) and the number of upgrades for each level.
+3. Click the "Calculate Probability" button to view the results.
+4. The results will display the probability and percentage of each level.
+5. The chart on the right will visually display the probability distribution.
+
+Note:
+- Upgrade probability is the percentage of upgrading from the current level to the next level.
+- The highest level has no upgrade probability (no further upgrades are possible).
+- Probability values ​​range from 0 to 100.
+- The initial level must be less than or equal to the total number of levels.
